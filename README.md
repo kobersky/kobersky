@@ -16,8 +16,8 @@ I'm self-motivated, eager to learn, enjoy confronting technical challenges, and 
 <b>Driving Theory is an Android application designed to help users pass the official Israeli driving theory test. With a pool of thousands of official questions and answers, it allows users to practice various categories, simulate exams with time limits, review traffic signs, bookmark specific items, and track their progress. The app supports both Hebrew and Arabic.</b>
 </br>
 
-<h3>Technology - Android:</h3>
-Kotlin, MVVM, Android Jetpack Libraries (Compose, Navigation, Room, Paging, and more), Hilt, Coil.
+<h3>Technology (Android SDK):</h3>
+Kotlin, MVVM, Android Jetpack Libraries (Compose, Navigation, Room, and more), Hilt, Coil.
 </br>
 
 <h3>Available On:</h3>
@@ -36,10 +36,11 @@ Google Store (Coming soon)
 This is a full, complete game, released on multiple platforms.
 </br>
 
-<h3>Technology:</h3>
-Unity - , 
+<h3>Technology (Unity):</h3>
+C#, Unity Physics, Async/Await, Tilemap, Animator, State Machine & more.
 </br>
 
+<!--
 <p align="center">
   <img src="https://img.itch.zone/aW1hZ2UvODA4NTIxLzQ1MzE5NjEucG5n/original/m7GnFT.png" height="49%" width="49%" alt="ScreenShot #1">
   <img src="https://img.itch.zone/aW1hZ2UvODA4NTIxLzQ1MzE5NjMucG5n/original/A3fUAo.png" height="49%" width="49%" alt="ScreenShot #2">
@@ -48,13 +49,25 @@ Unity - ,
   <img src="https://img.itch.zone/aW1hZ2UvODA4NTIxLzQ1MzIzNTYucG5n/original/0CflfF.png" height="49%" width="49%" alt="ScreenShot #3">
   <img src="https://img.itch.zone/aW1hZ2UvODA4NTIxLzQ1MzE5NjIucG5n/original/sxv2jC.png" height="49%" width="49%" alt="ScreenShot #4">
 </p>
+-->
+<p align="center">
+  <img src="images/F1.gif" height="49%" width="49%" alt="ScreenShot #1">
+  <img src="images/F2.gif" height="49%" width="49%" alt="ScreenShot #2">
+</p>
 
-Check out the trailer:<br>
+<p align="center">
+  <img src="images/F3.gif" height="49%" width="49%" alt="ScreenShot #3">
+  <img src="images/F4.gif" height="49%" width="49%" alt="ScreenShot #4">
+</p>
+
+</br>
+Trailer:
+
 [![Watch the video](https://img.youtube.com/vi/PgrztBLbNvw/0.jpg)](https://www.youtube.com/watch?v=PgrztBLbNvw)
-
+</br>
 <h3>Available On:</h3>
-<a href="https://freddy2dgame.itch.io/freddy/">Freddy on Itch.Io</a>
-<a href="https://gamejolt.com/games/Freddy/552255/">Freddy On GameJolt</a>
+<a href="https://freddy2dgame.itch.io/freddy/">Freddy on Itch.Io</a></br>
+<a href="https://gamejolt.com/games/Freddy/552255/">Freddy On GameJolt</a></br>
 
 ---
 
@@ -63,17 +76,17 @@ Check out the trailer:<br>
 <h3>Overview: </h3>
 PlanetCrush is a prototype for a match-3 game.
 
-<h3>Technology:</h3>
-Unity - Unitasks, DoTweens, 
+<h3>Technology (Unity):</h3>
+C#, UniTask, DoTween, New Input System
 
 <p align="center">
   <img src="images/pc1.gif" height="49%" width="49%" alt="ScreenShot #1">
-  <img src="images/pc2.gif" height="49%" width="49%" alt="ScreenShot #4">
+  <img src="images/pc2.gif" height="49%" width="49%" alt="ScreenShot #2">
 </p>
 
 <p align="center">
-  <img src="images/pc4.gif" height="49%" width="49%" alt="ScreenShot #2">
-  <img src="images/pc5.gif" height="49%" width="49%" alt="ScreenShot #3">
+  <img src="images/pc4.gif" height="49%" width="49%" alt="ScreenShot #3">
+  <img src="images/pc5.gif" height="49%" width="49%" alt="ScreenShot #4">
 </p>
 <h3>Available On:</h3>
 <a href="https://github.com/kobersky/PlanetCrushWip/">Github Repo</a>

@@ -1,22 +1,36 @@
-<h1>Hi, I'm Kobi, an Android and Unity Developer.</h1>
-<b>I received my B.Sc degree in Computer Science from Bar-Ilan University in 2014. Since then, I have accumulated approximately 9 years of experience in software development, working in startups, a large company, and as a solo developer.
+<h1>Hi, I'm Kobi!</h1>
+<b>I am an Android and Unity Developer.</b>
+</br></br>
+I received my B.Sc degree in Computer Science from Bar-Ilan University in 2014. Since then, I have accumulated approximately 9 years of experience in software development, working in the industry at startups and a large company, and also independently as a solo developer.
 </br>
 </br>
 I'm self-motivated, eager to learn, enjoy confronting technical challenges, and am accustomed to working both independently and as part of a development team.
-</b>
 
 ---
 
-<h2>Driving Theory</h2>
+<h1>Android Projects</h1>
+
+<h2>🚗🚦🛑 | Driving Theory</h2>
+<h3>Overview: </h3>
+
 <b>Driving Theory is an Android application designed to help users pass the official Israeli driving theory test. With a pool of thousands of official questions and answers, it allows users to practice various categories, simulate exams with time limits, review traffic signs, bookmark specific items, and track their progress. The app supports both Hebrew and Arabic.</b>
+</br>
+
+<h3>Technology - Android:</h3>
+Kotlin, MVVM, Android Jetpack Libraries (Compose, Navigation, Room, Paging, and more), Hilt, Coil.
+</br>
+
 <h3>Available On:</h3>
 Google Store (Coming soon)
 
 ---
 
-<h2>Freddy</h2>
+<h2>🐕 | Freddy</h2>
+<h3>Overview: </h3>
 <b>Freddy is a 2D platformer, made in Unity and inspired by early 90's PC classics like Commander Keen, Lion King and Prince of Persia. </b>
 </br>
+<h3>Technology:</h3>
+Unity - , 
 </br>
 
 <p align="center">
@@ -37,14 +51,23 @@ Check out the trailer:<br>
 
 ---
 
-<h2>Planet Crush</h2>
-<b>PlanetCrush is a prototype for a match-3 game.</b>
-<p align="center">
-  <img src="https://img.itch.zone/aW1hZ2UvODA4NTIxLzQ1MzIzNTYucG5n/original/0CflfF.png" height="49%" width="49%" alt="ScreenShot #3">
-  <img src="https://imgur.com/Uc0LzDM" height="49%" width="49%" alt="ScreenShot #4">
-</p>
-![Project Demo](https://drive.google.com/uc?export=view&id=1XvFDOgQ6iqkbAsxuMqq1GVFHLmhdIcSg)
+<h2>🪐 | Planet Crush</h2>
 
+<h3>Overview: </h3>
+PlanetCrush is a prototype for a match-3 game.
+
+<h3>Technology:</h3>
+Unity - Unitasks, DoTweens, 
+
+<p align="center">
+  <img src="images/pc1.gif" height="49%" width="49%" alt="ScreenShot #1">
+  <img src="images/pc2.gif" height="49%" width="49%" alt="ScreenShot #4">
+</p>
+
+<p align="center">
+  <img src="images/pc4.gif" height="49%" width="49%" alt="ScreenShot #2">
+  <img src="images/pc5.gif" height="49%" width="49%" alt="ScreenShot #3">
+</p>
 <h3>Available On:</h3>
 <a href="https://github.com/kobersky/PlanetCrushWip/">Github Repo</a>
 

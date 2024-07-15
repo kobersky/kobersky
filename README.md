@@ -83,6 +83,12 @@ C#, Unity Physics, Async/Await, Tilemap, Animator, State Machine & more.
   <img src="images/F4.gif" height="49%" width="49%" alt="ScreenShot #4">
 </p>
 -->
+
+<div style="position: relative; width: max-content;">
+  <img src="images/Freddy/F1_ph.png" alt="Loading animation" style="position: absolute; top: 0; left: 0;">
+  <img src="images/Freddy/F1.gif" alt="Loading animation">
+</div>
+<!--
 <p align="center">
   <picture>
     <source srcset="images/Freddy/F1.gif" height="49%" width="49%"  type="image/gif">
@@ -93,7 +99,8 @@ C#, Unity Physics, Async/Await, Tilemap, Animator, State Machine & more.
     <img src="images/Freddy/F2_ph.png" height="49%" width="49%" alt="Loading...">
   </picture>
 </p>
-
+-->
+<!--
 <p align="center">
   <picture>
     <source srcset="images/Freddy/F3.gif" height="49%" width="49%"  type="image/gif">
@@ -104,7 +111,7 @@ C#, Unity Physics, Async/Await, Tilemap, Animator, State Machine & more.
     <img src="images/Freddy/F4_ph.png" height="49%" width="49%" alt="Loading...">
   </picture>
 </p>
-
+-->
 
 </br>
 <h3>Trailer:</h3>

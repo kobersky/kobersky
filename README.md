@@ -69,6 +69,8 @@ C#, Unity Physics, Async/Await, Tilemap, Animator, State Machine & more.
   <img src="https://img.itch.zone/aW1hZ2UvODA4NTIxLzQ1MzE5NjIucG5n/original/sxv2jC.png" height="49%" width="49%" alt="ScreenShot #4">
 </p>
 -->
+
+<!--
 <p align="center">
   <img src="images/F1.gif" height="49%" width="49%" alt="ScreenShot #1">
   <img src="images/F2.gif" height="49%" width="49%" alt="ScreenShot #2">
@@ -78,7 +80,11 @@ C#, Unity Physics, Async/Await, Tilemap, Animator, State Machine & more.
   <img src="images/F3.gif" height="49%" width="49%" alt="ScreenShot #3">
   <img src="images/F4.gif" height="49%" width="49%" alt="ScreenShot #4">
 </p>
-
+-->
+<picture>
+  <source srcset="images/F4.gif" type="image/gif">
+  <img src="https://img.itch.zone/aW1hZ2UvODA4NTIxLzQ1MzE5NjIucG5n/original/sxv2jC.png" alt="Loading...">
+</picture>
 </br>
 <h3>Trailer:</h3>
 

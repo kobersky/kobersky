@@ -62,6 +62,9 @@ C#, Unity Physics, Async/Await, Tilemap, Animator, State Machine & more.
 <h3>Demo:</h3>
 
 <!--
+-->
+
+<!--
 <p align="center">
   <img src="https://img.itch.zone/aW1hZ2UvODA4NTIxLzQ1MzE5NjEucG5n/original/m7GnFT.png" height="49%" width="49%" alt="ScreenShot #1">
   <img src="https://img.itch.zone/aW1hZ2UvODA4NTIxLzQ1MzE5NjMucG5n/original/A3fUAo.png" height="49%" width="49%" alt="ScreenShot #2">
@@ -83,11 +86,23 @@ C#, Unity Physics, Async/Await, Tilemap, Animator, State Machine & more.
   <img src="images/F4.gif" height="49%" width="49%" alt="ScreenShot #4">
 </p>
 -->
-
+<!--
+<picture>
+  <img src="images/Freddy/F1_ph.png" alt="Static image" style="position: absolute; top: 0; left: 0;">
+  <img src="images/Freddy/F1.gif" alt="Loading animation">
+</picture>
+-->
+<!--
 <div style="position: relative; width: max-content;">
   <img src="images/Freddy/F1_ph.png" alt="Loading animation" style="position: absolute; top: 0; left: 0;">
   <img src="images/Freddy/F1.gif" alt="Loading animation">
 </div>
+-->
+<div style="position: relative; display: inline-block;">
+  <img src="images/Freddy/F1_ph.png" alt="Loading animation" style="position: absolute; top: 0; left: 0; z-index: 1;">
+  <img src="images/Freddy/F1.gif" alt="Loading animation" style="position: relative; z-index: 2;">
+</div>
+
 <!--
 <p align="center">
   <picture>

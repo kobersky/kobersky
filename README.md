@@ -22,6 +22,7 @@ Kotlin, MVVM, Android Jetpack Libraries (Compose, Navigation, Room, and more), H
 </br>
 
 <h3>Demo:</h3>
+<!--
 <p align="center">
   <img src="images/dtcategories.gif" height="33%" width="33%" alt="ScreenShot #1">
   <img src="images/dtpractice.gif" height="33%" width="33%" alt="ScreenShot #2">

@@ -20,20 +20,21 @@ Driving Theory is an Android application designed to help users pass the officia
 <h3>Technology (Android SDK):</h3>
 Kotlin, MVVM, Android Jetpack Libraries (Compose, Navigation, Room, and more), Hilt, Coil.
 </br>
-
+<!--
 <h3>Demo:</h3>
 <p align="center">
   <img src="images/dtcategories.gif" height="33%" width="33%" alt="ScreenShot #1">
   <img src="images/dtpractice.gif" height="33%" width="33%" alt="ScreenShot #2">
   <img src="images/dtexam.gif" height="33%" width="33%" alt="ScreenShot #3">
 </p>
-
+-->
+<!--
 <p align="center">
   <img src="images/dtprogress.gif" height="33%" width="33%" alt="ScreenShot #4">
   <img src="images/dtbookmarks.gif" height="33%" width="33%" alt="ScreenShot #5">
   <img src="images/dtsigns.gif" height="33%" width="33%" alt="ScreenShot #6">
 </p>
-
+-->
 
 <h3>Available On:</h3>
 (Coming soon, by the end of July 2024)
@@ -81,10 +82,29 @@ C#, Unity Physics, Async/Await, Tilemap, Animator, State Machine & more.
   <img src="images/F4.gif" height="49%" width="49%" alt="ScreenShot #4">
 </p>
 -->
-<picture>
-  <source srcset="images/F4.gif" type="image/gif">
-  <img src="https://img.itch.zone/aW1hZ2UvODA4NTIxLzQ1MzE5NjIucG5n/original/sxv2jC.png" alt="Loading...">
-</picture>
+<p align="center">
+  <picture>
+    <source srcset="images/F1.gif" height="49%" width="49%"  type="image/gif">
+    <img src="https://img.itch.zone/aW1hZ2UvODA4NTIxLzQ1MzE5NjIucG5n/original/m7GnFT.png" height="49%" width="49%" alt="Loading...">
+  </picture>
+  <picture>
+    <source srcset="images/F2.gif"height="49%" width="49%"   type="image/gif">
+    <img src="https://img.itch.zone/aW1hZ2UvODA4NTIxLzQ1MzE5NjIucG5n/original/A3fUAo.png" height="49%" width="49%" alt="Loading...">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source srcset="images/F3.gif" height="49%" width="49%"  type="image/gif">
+    <img src="https://img.itch.zone/aW1hZ2UvODA4NTIxLzQ1MzE5NjIucG5n/original/0CflfF.png" height="49%" width="49%" alt="Loading...">
+  </picture>
+  <picture>
+    <source srcset="images/F4.gif"height="49%" width="49%"   type="image/gif">
+    <img src="https://img.itch.zone/aW1hZ2UvODA4NTIxLzQ1MzE5NjIucG5n/original/sxv2jC.png" height="49%" width="49%" alt="Loading...">
+  </picture>
+</p>
+
+
 </br>
 <h3>Trailer:</h3>
 

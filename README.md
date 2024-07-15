@@ -13,9 +13,15 @@ I'm self-motivated, eager to learn, enjoy confronting technical challenges, and 
 <h2>🚗🚦🛑 | Driving Theory</h2>
 <h3>Overview: </h3>
 
-<b>Driving Theory is an Android application designed to help users pass the official Israeli driving theory test. With a pool of thousands of official questions and answers, it allows users to practice various categories, simulate exams with time limits, review traffic signs, bookmark specific items, and track their progress. The app supports both Hebrew and Arabic.</b>
+Driving Theory is an Android application designed to help users pass the official Israeli driving theory test. With a pool of thousands of official questions and answers, it allows users to practice various categories, simulate exams with time limits, review traffic signs, bookmark specific items, and track their progress. 
+</br>
+</br>The app supports both Hebrew and Arabic.
+
+<h3>Technology (Android SDK):</h3>
+Kotlin, MVVM, Android Jetpack Libraries (Compose, Navigation, Room, and more), Hilt, Coil.
 </br>
 
+<h3>Demo:</h3>
 <p align="center">
   <img src="images/dtcategories.gif" height="33%" width="33%" alt="ScreenShot #1">
   <img src="images/dtpractice.gif" height="33%" width="33%" alt="ScreenShot #2">
@@ -28,9 +34,6 @@ I'm self-motivated, eager to learn, enjoy confronting technical challenges, and 
   <img src="images/dtsigns.gif" height="33%" width="33%" alt="ScreenShot #6">
 </p>
 
-<h3>Technology (Android SDK):</h3>
-Kotlin, MVVM, Android Jetpack Libraries (Compose, Navigation, Room, and more), Hilt, Coil.
-</br>
 
 <h3>Available On:</h3>
 (Coming soon, by the end of July 2024)
@@ -43,7 +46,7 @@ Kotlin, MVVM, Android Jetpack Libraries (Compose, Navigation, Room, and more), H
 
 <h2>🐕 | Freddy</h2>
 <h3>Overview: </h3>
-<b>Freddy is a 2D platformer, starring a Dog as a protagonist. Inspired by early 90's PC classics like Commander Keen, Lion King and Prince of Persia. </b>
+Freddy is a 2D platformer, starring a Dog as a protagonist. Inspired by early 90's PC classics like Commander Keen, Lion King and Prince of Persia.
 </br>
 
 </br>
@@ -53,6 +56,8 @@ This is a full, complete game, released on multiple platforms.
 <h3>Technology (Unity):</h3>
 C#, Unity Physics, Async/Await, Tilemap, Animator, State Machine & more.
 </br>
+
+<h3>Demo:</h3>
 
 <!--
 <p align="center">
@@ -91,10 +96,13 @@ C#, Unity Physics, Async/Await, Tilemap, Animator, State Machine & more.
 <h2>🪐 | Planet Crush</h2>
 
 <h3>Overview: </h3>
-PlanetCrush is a prototype for a match-3 game.
+PlanetCrush is a prototype for a match-3 game. 
+</br>Although quite simple, it presented interesting challenges in terms of asynchronicity and a seamless user experience.
 
 <h3>Technology (Unity):</h3>
-C#, UniTask, DoTween, New Input System
+C#, UniTask, DoTween, New Input System.
+
+<h3>Demo:</h3>
 
 <p align="center">
   <img src="images/pc1.gif" height="49%" width="49%" alt="ScreenShot #1">

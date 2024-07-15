@@ -33,7 +33,9 @@ Kotlin, MVVM, Android Jetpack Libraries (Compose, Navigation, Room, and more), H
 </br>
 
 <h3>Available On:</h3>
-Google Store (Coming soon)
+(Coming soon, by the end of July 2024)
+</br>
+<a href='https://play.google.com/store/games?device=windows/'><img alt='Get it on Google Play' src='images/google_play_logo.png' height='80px'/></a>
 
 ---
 
@@ -73,13 +75,16 @@ C#, Unity Physics, Async/Await, Tilemap, Animator, State Machine & more.
 </p>
 
 </br>
-Trailer:
+<h3>Trailer:</h3>
 
 [![Watch the video](https://img.youtube.com/vi/PgrztBLbNvw/0.jpg)](https://www.youtube.com/watch?v=PgrztBLbNvw)
 </br>
 <h3>Available On:</h3>
-<a href="https://freddy2dgame.itch.io/freddy/">Freddy on Itch.Io</a></br>
-<a href="https://gamejolt.com/games/Freddy/552255/">Freddy On GameJolt</a></br>
+<a href='https://gamejolt.com/games/Freddy/552255/'><img alt='Freddy on GameJolt' src='images/gamejolt_logo.png' height='80px'/></a>
+</br>
+</br>
+<a href='https://freddy2dgame.itch.io/freddy'><img alt='Freddy on Itch.io' src='images/itch_logo.png' height='80px'/></a>
+</br>
 
 ---
 
@@ -100,6 +105,6 @@ C#, UniTask, DoTween, New Input System
   <img src="images/pc4.gif" height="49%" width="49%" alt="ScreenShot #3">
   <img src="images/pc5.gif" height="49%" width="49%" alt="ScreenShot #4">
 </p>
-<h3>Available On:</h3>
-<a href="https://github.com/kobersky/PlanetCrushWip/">Github Repo</a>
+<h3>Project Repo:</h3>
+<a href="https://github.com/kobersky/PlanetCrushWip/">Planet Crush</a>
 

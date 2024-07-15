@@ -21,7 +21,7 @@ Driving Theory is an Android application designed to help users pass the officia
 Kotlin, MVVM, Android Jetpack Libraries (Compose, Navigation, Room, and more), Hilt, Coil.
 </br>
 
-<h3>Demo:</h3>
+<h3>Demo (gifs may take a few seconds to load):</h3>
 <!--
 <p align="center">
   <img src="images/dtcategories.gif" height="33%" width="33%" alt="ScreenShot #1">
@@ -88,7 +88,7 @@ This is a full, complete game, released on multiple platforms.
 C#, Unity Physics, Async/Await, Tilemap, Animator, State Machine & more.
 </br>
 
-<h3>Demo:</h3>
+<h3>Demo (gifs may take a few seconds to load):</h3>
 
 <!--
 -->
@@ -137,7 +137,7 @@ PlanetCrush is a prototype for a match-3 game.
 <h3>Technology (Unity):</h3>
 C#, UniTask, DoTween, New Input System.
 
-<h3>Demo:</h3>
+<h3>Demo (gifs may take a few seconds to load):</h3>
 
 <p align="center">
   <picture>

@@ -85,22 +85,22 @@ C#, Unity Physics, Async/Await, Tilemap, Animator, State Machine & more.
 -->
 <p align="center">
   <picture>
-    <source srcset="images/F1.gif" height="49%" width="49%"  type="image/gif">
+    <source srcset="images/Freddy/F1.gif" height="49%" width="49%"  type="image/gif">
     <img src="images/Freddy/F1_ph.png" height="49%" width="49%" alt="Loading...">
   </picture>
   <picture>
-    <source srcset="images/F2.gif"height="49%" width="49%"   type="image/gif">
+    <source srcset="images/Freddy/F2.gif"height="49%" width="49%"   type="image/gif">
     <img src="images/Freddy/F2_ph.png" height="49%" width="49%" alt="Loading...">
   </picture>
 </p>
 
 <p align="center">
   <picture>
-    <source srcset="images/F3.gif" height="49%" width="49%"  type="image/gif">
+    <source srcset="images/Freddy/F3.gif" height="49%" width="49%"  type="image/gif">
     <img src="images/Freddy/F3_ph.png" height="49%" width="49%" alt="Loading...">
   </picture>
   <picture>
-    <source srcset="images/F4.gif"height="49%" width="49%"   type="image/gif">
+    <source srcset="images/Freddy/F4.gif"height="49%" width="49%"   type="image/gif">
     <img src="images/Freddy/F4_ph.png" height="49%" width="49%" alt="Loading...">
   </picture>
 </p>

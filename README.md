@@ -86,22 +86,15 @@ C#, Unity Physics, Async/Await, Tilemap, Animator, State Machine & more.
   <img src="images/F4.gif" height="49%" width="49%" alt="ScreenShot #4">
 </p>
 -->
-<!--
-<picture>
-  <img src="images/Freddy/F1_ph.png" alt="Static image" style="position: absolute; top: 0; left: 0;">
-  <img src="images/Freddy/F1.gif" alt="Loading animation">
-</picture>
--->
-<!--
-<div style="position: relative; width: max-content;">
-  <img src="images/Freddy/F1_ph.png" alt="Loading animation" style="position: absolute; top: 0; left: 0;">
-  <img src="images/Freddy/F1.gif" alt="Loading animation">
-</div>
--->
-<div style="position: relative; display: inline-block;">
-  <img src="images/Freddy/F1_ph.png" alt="Loading animation" style="position: absolute; top: 0; left: 0; z-index: 1;">
-  <img src="images/Freddy/F1.gif" alt="Loading animation" style="position: relative; z-index: 2;">
-</div>
+
+<p align="center">
+    <img src="images/Freddy/F1.gif" alt="Loading animation" style="background: url('images/Freddy/F1_ph.png') no-repeat; display: block; width: 49%; height: 49%;">
+    <img src="images/Freddy/F2.gif" alt="Loading animation" style="background: url('images/Freddy/F2_ph.png') no-repeat; display: block; width: 49%; height: 49%;">
+</p>
+<p align="center">
+  <img src="https://img.itch.zone/aW1hZ2UvODA4NTIxLzQ1MzIzNTYucG5n/original/0CflfF.png" height="49%" width="49%" alt="ScreenShot #3">
+  <img src="https://img.itch.zone/aW1hZ2UvODA4NTIxLzQ1MzE5NjIucG5n/original/sxv2jC.png" height="49%" width="49%" alt="ScreenShot #4">
+</p>
 
 <!--
 <p align="center">

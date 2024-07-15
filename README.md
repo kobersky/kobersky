@@ -76,18 +76,10 @@ C#, Unity Physics, Async/Await, Tilemap, Animator, State Machine & more.
   </picture>
 </p>
 
-
 <p align="center">
-  <picture>
-    <source srcset="images/Freddy/F3.gif" height="49%" width="49%"  type="image/gif">
-    <img src="images/Freddy/F3_ph.png" height="49%" width="49%" alt="Loading...">
-  </picture>
-  <picture>
-    <source srcset="images/Freddy/F4.gif"height="49%" width="49%" type="image/gif">
-    <img src="images/Freddy/F4_ph.png" height="49%" width="49%" alt="Loading...">
-  </picture>
+  <img src="images/Freddy/F3.gif" height="49%" width="49%" alt="ScreenShot #3">
+  <img src="images/Freddy/F4.gif" height="49%" width="49%" alt="ScreenShot #4">
 </p>
-
 
 </br>
 <h3>Trailer:</h3>
@@ -124,6 +116,7 @@ C#, UniTask, DoTween, New Input System.
     <img src="images/PlanetCrush/pc2_ph.png" height="49%" width="49%" alt="Loading...">
   </picture>
 </p>
+
 <p align="center">
   <img src="images/PlanetCrush/pc4.gif" height="49%" width="49%" alt="ScreenShot #3">
   <img src="images/PlanetCrush/pc5.gif" height="49%" width="49%" alt="ScreenShot #4">

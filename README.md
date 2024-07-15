@@ -16,6 +16,18 @@ I'm self-motivated, eager to learn, enjoy confronting technical challenges, and 
 <b>Driving Theory is an Android application designed to help users pass the official Israeli driving theory test. With a pool of thousands of official questions and answers, it allows users to practice various categories, simulate exams with time limits, review traffic signs, bookmark specific items, and track their progress. The app supports both Hebrew and Arabic.</b>
 </br>
 
+<p align="center">
+  <img src="images/dtcategories.gif" height="33%" width="33%" alt="ScreenShot #1">
+  <img src="images/dtpractice.gif" height="33%" width="33%" alt="ScreenShot #2">
+  <img src="images/dtexam.gif" height="33%" width="33%" alt="ScreenShot #3">
+</p>
+
+<p align="center">
+  <img src="images/dtprogress.gif" height="33%" width="33%" alt="ScreenShot #4">
+  <img src="images/dtbookmarks.gif" height="33%" width="33%" alt="ScreenShot #5">
+  <img src="images/dtsigns.gif" height="33%" width="33%" alt="ScreenShot #6">
+</p>
+
 <h3>Technology (Android SDK):</h3>
 Kotlin, MVVM, Android Jetpack Libraries (Compose, Navigation, Room, and more), Hilt, Coil.
 </br>

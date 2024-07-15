@@ -37,6 +37,35 @@ Kotlin, MVVM, Android Jetpack Libraries (Compose, Navigation, Room, and more), H
 </p>
 -->
 
+<p align="center">
+  <picture>
+    <source srcset="images/Driving/dtcategories.gif" height="25%" width="25%"  type="image/gif">
+    <img src="images/Driving/dtcategories_ph.png" height="25%" width="25%" alt="Loading...">
+  </picture>
+  <picture>
+    <source srcset="images/Driving/dtpractice.gif" height="25%" width="25%"  type="image/gif">
+    <img src="images/Driving/dtpractice_ph.png" height="25%" width="25%" alt="Loading...">
+  </picture>
+  <picture>
+    <source srcset="images/Driving/dtbookmarks.gif" height="25%" width="25%"  type="image/gif">
+    <img src="images/Driving/dtbookmarks_ph.png" height="25%" width="25%" alt="Loading...">
+  </picture>
+</p>
+<p align="center">
+  <picture>
+    <source srcset="images/Driving/dtprogress.gif" height="25%" width="25%"  type="image/gif">
+    <img src="images/Driving/dtprogress_ph.png" height="25%" width="25%" alt="Loading...">
+  </picture>
+    <picture>
+    <source srcset="images/Driving/dtbookmarks.gif" height="25%" width="25%"  type="image/gif">
+    <img src="images/Driving/dtbookmarks_ph.png" height="25%" width="25%" alt="Loading...">
+  </picture>
+    <picture>
+    <source srcset="images/Driving/dtsigns.gif" height="25%" width="25%"  type="image/gif">
+    <img src="images/Driving/dtsigns_ph.png" height="25%" width="253%" alt="Loading...">
+  </picture>
+</p>
+
 <h3>Available On:</h3>
 (Coming soon, by the end of July 2024)
 </br>
@@ -64,7 +93,6 @@ C#, Unity Physics, Async/Await, Tilemap, Animator, State Machine & more.
 <!--
 -->
 
-
 <p align="center">
   <picture>
     <source srcset="images/Freddy/F1.gif" height="49%" width="49%"  type="image/gif">
@@ -75,13 +103,14 @@ C#, Unity Physics, Async/Await, Tilemap, Animator, State Machine & more.
     <img src="images/Freddy/F2_ph.png" height="49%" width="49%" alt="Loading...">
   </picture>
 </p>
-
 <p align="center">
   <picture>
-    <source srcset="images/Freddy/F3.gif" height="49%" width="49%"  type="image/gif" alt="Loading...">
+    <source srcset="images/Freddy/F3.gif" height="49%" width="49%"  type="image/gif">
+    <img src="images/Freddy/F3_ph.png" height="49%" width="49%" alt="Loading...">
   </picture>
   <picture>
-    <source srcset="images/Freddy/F4.gif"height="49%" width="49%" type="image/gif" alt="Loading...">
+    <source srcset="images/Freddy/F4.gif"height="49%" width="49%"   type="image/gif">
+    <img src="images/Freddy/F4_ph.png" height="49%" width="49%" alt="Loading...">
   </picture>
 </p>
 
@@ -122,36 +151,16 @@ C#, UniTask, DoTween, New Input System.
 </p>
 
 <p align="center">
-  <img src="images/PlanetCrush/pc4.gif" height="49%" width="49%" alt="ScreenShot #3">
-  <img src="images/PlanetCrush/pc5.gif" height="49%" width="49%" alt="ScreenShot #4">
+  <picture>
+    <source srcset="images/PlanetCrush/pc4.gif" height="49%" width="49%"  type="image/gif">
+    <img src="images/PlanetCrush/pc4_ph.png" height="49%" width="49%" alt="Loading...">
+  </picture>
+  <picture>
+    <source srcset="images/PlanetCrush/pc5.gif"height="49%" width="49%"   type="image/gif">
+    <img src="images/PlanetCrush/pc5_ph.png" height="49%" width="49%" alt="Loading...">
+  </picture>
 </p>
 
-<p align="center">
-  <!--
-  <picture>
-    <source srcset="images/pc4.gif" height="49%" width="49%"  type="image/gif">
-    <img src="images/pc4_ph.png" height="49%" width="49%" alt="Loading...">
-  </picture>
-  -->
-<!--
-  <picture>
-    <source srcset="images/pc5.gif"height="49%" width="49%"   type="image/gif">
-    <img src="images/pc5_ph.png" height="49%" width="49%" alt="Loading...">
-  </picture>
--->
-</p>
-  
-<!--
-<p align="center">
-  <img src="images/pc1.gif" height="49%" width="49%" alt="ScreenShot #1">
-  <img src="images/pc2.gif" height="49%" width="49%" alt="ScreenShot #2">
-</p>
-
-<p align="center">
-  <img src="images/pc4.gif" height="49%" width="49%" alt="ScreenShot #3">
-  <img src="images/pc5.gif" height="49%" width="49%" alt="ScreenShot #4">
-</p>
--->
 <h3>Project Repo:</h3>
 <a href="https://github.com/kobersky/PlanetCrushWip/">Planet Crush</a>
 

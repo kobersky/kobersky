@@ -77,8 +77,12 @@ C#, Unity Physics, Async/Await, Tilemap, Animator, State Machine & more.
 </p>
 
 <p align="center">
-  <img src="images/Freddy/F3.gif" height="49%" width="49%" alt="ScreenShot #3">
-  <img src="images/Freddy/F4.gif" height="49%" width="49%" alt="ScreenShot #4">
+  <picture>
+    <source srcset="images/Freddy/F3.gif" height="49%" width="49%"  type="image/gif" alt="Loading...">
+  </picture>
+  <picture>
+    <source srcset="images/Freddy/F4.gif"height="49%" width="49%" type="image/gif" alt="Loading...">
+  </picture>
 </p>
 
 </br>

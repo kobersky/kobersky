@@ -64,39 +64,7 @@ C#, Unity Physics, Async/Await, Tilemap, Animator, State Machine & more.
 <!--
 -->
 
-<!--
-<p align="center">
-  <img src="https://img.itch.zone/aW1hZ2UvODA4NTIxLzQ1MzE5NjEucG5n/original/m7GnFT.png" height="49%" width="49%" alt="ScreenShot #1">
-  <img src="https://img.itch.zone/aW1hZ2UvODA4NTIxLzQ1MzE5NjMucG5n/original/A3fUAo.png" height="49%" width="49%" alt="ScreenShot #2">
-</p>
-<p align="center">
-  <img src="https://img.itch.zone/aW1hZ2UvODA4NTIxLzQ1MzIzNTYucG5n/original/0CflfF.png" height="49%" width="49%" alt="ScreenShot #3">
-  <img src="https://img.itch.zone/aW1hZ2UvODA4NTIxLzQ1MzE5NjIucG5n/original/sxv2jC.png" height="49%" width="49%" alt="ScreenShot #4">
-</p>
--->
 
-<!--
-<p align="center">
-  <img src="images/F1.gif" height="49%" width="49%" alt="ScreenShot #1">
-  <img src="images/F2.gif" height="49%" width="49%" alt="ScreenShot #2">
-</p>
-
-<p align="center">
-  <img src="images/F3.gif" height="49%" width="49%" alt="ScreenShot #3">
-  <img src="images/F4.gif" height="49%" width="49%" alt="ScreenShot #4">
-</p>
--->
-
-<p align="center">
-    <img src="images/Freddy/F1.gif" alt="Loading animation" style="background: url('images/Freddy/F1_ph.png') no-repeat; display: block; width: 49%; height: 49%;">
-    <img src="images/Freddy/F2.gif" alt="Loading animation" style="background: url('images/Freddy/F2_ph.png') no-repeat; display: block; width: 49%; height: 49%;">
-</p>
-<p align="center">
-  <img src="https://img.itch.zone/aW1hZ2UvODA4NTIxLzQ1MzIzNTYucG5n/original/0CflfF.png" height="49%" width="49%" alt="ScreenShot #3">
-  <img src="https://img.itch.zone/aW1hZ2UvODA4NTIxLzQ1MzE5NjIucG5n/original/sxv2jC.png" height="49%" width="49%" alt="ScreenShot #4">
-</p>
-
-<!--
 <p align="center">
   <picture>
     <source srcset="images/Freddy/F1.gif" height="49%" width="49%"  type="image/gif">
@@ -107,19 +75,19 @@ C#, Unity Physics, Async/Await, Tilemap, Animator, State Machine & more.
     <img src="images/Freddy/F2_ph.png" height="49%" width="49%" alt="Loading...">
   </picture>
 </p>
--->
-<!--
+
+
 <p align="center">
   <picture>
     <source srcset="images/Freddy/F3.gif" height="49%" width="49%"  type="image/gif">
     <img src="images/Freddy/F3_ph.png" height="49%" width="49%" alt="Loading...">
   </picture>
   <picture>
-    <source srcset="images/Freddy/F4.gif"height="49%" width="49%"   type="image/gif">
+    <source srcset="images/Freddy/F4.gif"height="49%" width="49%" type="image/gif">
     <img src="images/Freddy/F4_ph.png" height="49%" width="49%" alt="Loading...">
   </picture>
 </p>
--->
+
 
 </br>
 <h3>Trailer:</h3>
@@ -148,26 +116,34 @@ C#, UniTask, DoTween, New Input System.
 
 <p align="center">
   <picture>
-    <source srcset="images/pc1.gif" height="49%" width="49%"  type="image/gif">
-    <img src="images/pc1_ph.png" height="49%" width="49%" alt="Loading...">
+    <source srcset="images/PlanetCrush/pc1.gif" height="49%" width="49%"  type="image/gif">
+    <img src="images/PlanetCrush/pc1_ph.png" height="49%" width="49%" alt="Loading...">
   </picture>
   <picture>
-    <source srcset="images/pc2.gif"height="49%" width="49%"   type="image/gif">
-    <img src="images/pc2_ph.png" height="49%" width="49%" alt="Loading...">
+    <source srcset="images/PlanetCrush/pc2.gif"height="49%" width="49%"   type="image/gif">
+    <img src="images/PlanetCrush/pc2_ph.png" height="49%" width="49%" alt="Loading...">
   </picture>
+</p>
+<p align="center">
+  <img src="images/PlanetCrush/pc4.gif" height="49%" width="49%" alt="ScreenShot #3">
+  <img src="images/PlanetCrush/pc5.gif" height="49%" width="49%" alt="ScreenShot #4">
 </p>
 
 <p align="center">
+  <!--
   <picture>
     <source srcset="images/pc4.gif" height="49%" width="49%"  type="image/gif">
     <img src="images/pc4_ph.png" height="49%" width="49%" alt="Loading...">
   </picture>
+  -->
+<!--
   <picture>
     <source srcset="images/pc5.gif"height="49%" width="49%"   type="image/gif">
     <img src="images/pc5_ph.png" height="49%" width="49%" alt="Loading...">
   </picture>
+-->
 </p>
-
+  
 <!--
 <p align="center">
   <img src="images/pc1.gif" height="49%" width="49%" alt="ScreenShot #1">

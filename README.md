@@ -35,7 +35,7 @@ Kotlin, MVVM, Android Jetpack Libraries (Compose, Navigation, Room, and more), H
   <img src="images/dtbookmarks.gif" height="33%" width="33%" alt="ScreenShot #5">
   <img src="images/dtsigns.gif" height="33%" width="33%" alt="ScreenShot #6">
 </p>
-
+-->
 
 <h3>Available On:</h3>
 (Coming soon, by the end of July 2024)

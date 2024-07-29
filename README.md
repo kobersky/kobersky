@@ -67,7 +67,7 @@ Kotlin, MVVM, Android Jetpack Libraries (Compose, Navigation, Room, and more), H
 </p>
 
 <h3>Available On:</h3>
-(Coming soon, by the end of July 2024)
+(Coming soon, in August 2024)
 </br>
 <a href='https://play.google.com/store/games?device=windows/'><img alt='Get it on Google Play' src='images/google_play_logo.png' height='80px'/></a>
 

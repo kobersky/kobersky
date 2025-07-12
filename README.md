@@ -1,11 +1,10 @@
-<h1>Hi, I'm Kobi!</h1>
-<b>I am an Android and Unity Developer.</b>
+<h1>Hi, I'm Kobi</h1>
+<b>I am an Android Developer with a background in Unity.</b>
 </br></br>
-I received my B.Sc degree in Computer Science from Bar-Ilan University in 2014. Since then, I have accumulated approximately 9 years of experience in software development, working in the industry at startups and a large company, and also independently as a solo developer.
+With 10+ years in software development - I've worked across startups, a large-scale enterprise, and as an independent solo developer.
 </br>
 </br>
-I'm self-motivated, eager to learn, enjoy confronting technical challenges, and am accustomed to working both independently and as part of a development team.
-
+I'm comfortable working through technical challenges, digging into complex systems, and accustomed to both working alone and collaborating with others.
 ---
 
 <h1>Android Projects</h1>
@@ -13,7 +12,7 @@ I'm self-motivated, eager to learn, enjoy confronting technical challenges, and 
 <h2>🚗🚦🛑 | Driving Theory</h2>
 <h3>Overview: </h3>
 
-Driving Theory is an Android application designed to help users pass the official Israeli driving theory test. With a pool of thousands of official questions and answers, it allows users to practice various categories, simulate exams with time limits, review traffic signs, bookmark specific items, and track their progress. 
+Driving Theory is an Android application designed to help users pass the official Israeli Driving Theory Test. With a pool of thousands of official questions and answers, it allows users to practice various categories, simulate exams with time limits, review traffic signs, bookmark specific items, and track their overall progress. 
 </br>
 </br>The app supports both Hebrew and Arabic.
 
@@ -21,7 +20,7 @@ Driving Theory is an Android application designed to help users pass the officia
 Kotlin, MVVM, Android Jetpack Libraries (Compose, Navigation, Room, and more), Hilt, Coil.
 </br>
 
-<h3>Demo (gifs may take a few seconds to load):</h3>
+<h3>Demo:</h3>
 <!--
 <p align="center">
   <img src="images/dtcategories.gif" height="33%" width="33%" alt="ScreenShot #1">
@@ -66,6 +65,7 @@ Kotlin, MVVM, Android Jetpack Libraries (Compose, Navigation, Room, and more), H
   </picture>
 </p>
 
+<h3>Available On:</h3>
 <a href='https://play.google.com/store/apps/details?id=com.ohadis.drivingtheory'><img alt='Get it on Google Play' src='images/google_play_logo.png' height='80px'/></a>
 </br>
 

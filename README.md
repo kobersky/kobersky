@@ -74,8 +74,8 @@ Kotlin, MVVM, Android Jetpack Libraries (Compose, Navigation, Room, and more), H
 <h3>Overview: </h3>
 Freddy is a complete 2D platforming game which I created.
 </br>
-Starring a Dog as a protagonist and being inspired by early 90's PC classics like Commander Keen, it features puzzle-platforming mechanics, varied level layouts, and a mix of action and exploration.
 </br>
+Starring a Dog as a protagonist and being inspired by early 90's PC classics like Commander Keen, it features puzzle-platforming mechanics, varied level layouts, and a mix of action and exploration.
 </br>
 
 <h3>Technology (Unity):</h3>
@@ -131,7 +131,7 @@ PlanetCrush is a prototype for a match-3 game.
 <h3>Technology (Unity):</h3>
 C#, UniTask, DoTween, New Input System.
 
-<h3>Demo (gifs may take a few seconds to load):</h3>
+<h3>Demo:</h3>
 
 <p align="center">
   <picture>

@@ -3,7 +3,6 @@
 </br></br>
 With 10+ years in software development - I've worked across startups, a large-scale enterprise, and as an independent solo developer.
 </br>
-</br>
 I'm comfortable working through technical challenges, digging into complex systems, and finding solutions that are efficient and maintainable.
 <h1>Android Projects</h1>
 

@@ -66,10 +66,8 @@ Kotlin, MVVM, Android Jetpack Libraries (Compose, Navigation, Room, and more), H
   </picture>
 </p>
 
-<h3>Available On:</h3>
-(Coming soon, in August 2024)
+<a href='https://play.google.com/store/apps/details?id=com.ohadis.drivingtheory'><img alt='Get it on Google Play' src='images/google_play_logo.png' height='80px'/></a>
 </br>
-<a href='https://play.google.com/store/games?device=windows/'><img alt='Get it on Google Play' src='images/google_play_logo.png' height='80px'/></a>
 
 ---
 

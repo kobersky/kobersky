@@ -73,11 +73,10 @@ Kotlin, MVVM, Android Jetpack Libraries (Compose, Navigation, Room, and more), H
 
 <h2>🐕 | Freddy</h2>
 <h3>Overview: </h3>
-Freddy is a 2D platformer, starring a Dog as a protagonist. Inspired by early 90's PC classics like Commander Keen, Lion King and Prince of Persia.
+Freddy is a complete 2D platforming game which I created.
 </br>
-
+Starring a Dog as a protagonist and being inspired by early 90's PC classics like Commander Keen, it features puzzle-platforming mechanics, varied level layouts, and a mix of action and exploration.
 </br>
-This is a full, complete game, released on multiple platforms.
 </br>
 
 <h3>Technology (Unity):</h3>

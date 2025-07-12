@@ -11,8 +11,6 @@ I'm comfortable working through technical challenges, digging into complex syste
 
 Driving Theory is an Android application designed to help users pass the official Israeli Driving Theory Test. 
 </br>
-</br>
-
 With a pool of thousands of official questions and answers, it allows users to practice various categories, simulate exams with time limits, review traffic signs, bookmark specific items, and track their overall progress. 
 </br>
 The app supports both Hebrew and Arabic.
@@ -78,7 +76,6 @@ Kotlin, MVVM, Android Jetpack Libraries (Compose, Navigation, Room, and more), H
 <h3>Overview: </h3>
 Freddy is a complete 2D platforming game which I created.
 </br>
-</br>
 Starring a Dog as a protagonist and being inspired by early 90's PC classics like Commander Keen, it features puzzle-platforming mechanics, varied level layouts, and a mix of action and exploration.
 </br>
 
@@ -130,8 +127,9 @@ C#, Unity Physics, Async/Await, Tilemap, Animator, State Machine & more.
 
 <h3>Overview: </h3>
 PlanetCrush is a prototype for a match-3 game. 
-</br>Although quite simple, it presented interesting challenges in terms of asynchronicity and a seamless user experience.
-
+</br>
+It explores how parallel interactions and gameplay events can be handled without disrupting the user experience.
+</br>
 <h3>Technology (Unity):</h3>
 C#, UniTask, DoTween, New Input System.
 

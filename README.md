@@ -9,9 +9,13 @@ I'm comfortable working through technical challenges, digging into complex syste
 <h2>🚗🚦🛑 | Driving Theory</h2>
 <h3>Overview: </h3>
 
-Driving Theory is an Android application designed to help users pass the official Israeli Driving Theory Test. With a pool of thousands of official questions and answers, it allows users to practice various categories, simulate exams with time limits, review traffic signs, bookmark specific items, and track their overall progress. 
+Driving Theory is an Android application designed to help users pass the official Israeli Driving Theory Test. 
 </br>
-</br>The app supports both Hebrew and Arabic.
+</br>
+
+With a pool of thousands of official questions and answers, it allows users to practice various categories, simulate exams with time limits, review traffic signs, bookmark specific items, and track their overall progress. 
+</br>
+The app supports both Hebrew and Arabic.
 
 <h3>Technology (Android SDK):</h3>
 Kotlin, MVVM, Android Jetpack Libraries (Compose, Navigation, Room, and more), Hilt, Coil.
@@ -82,7 +86,7 @@ Starring a Dog as a protagonist and being inspired by early 90's PC classics lik
 C#, Unity Physics, Async/Await, Tilemap, Animator, State Machine & more.
 </br>
 
-<h3>Demo (gifs may take a few seconds to load):</h3>
+<h3>Demo:</h3>
 
 <!--
 -->

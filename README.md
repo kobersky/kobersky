@@ -4,6 +4,36 @@
 With 10+ years in software development - I've worked across startups, a large-scale enterprise, and as an independent solo developer.
 </br>
 I'm comfortable working through technical challenges, digging into complex systems, and finding solutions that are efficient and maintainable.
+
+<h1>DevOps Projects</h1>
+
+<h2>☁️ | Mind-Map</h2>
+<h3>Overview: </h3>
+DevOps platform for an LLM-powered note app — LLM note enrichment and RAG search, built and operated on AWS.
+</br>
+<ul>
+  <li>Built VPC + EKS with Terraform modules; IRSA gave the backend, External Secrets, and EBS CSI keyless AWS access.</li>
+  <li>Deployed FE/BE/Postgres via a Helm umbrella chart and ArgoCD App-of-Apps, behind one Nginx ingress with cert-manager TLS.</li>
+  <li>Built two multibranch Jenkins pipelines (FE + BE): mocked/live-gated CI, ECR publishing, and GitOps deploy.</li>
+  <li>Set up Prometheus/Grafana + EFK logging, LLM cost/latency/token dashboards, ECR lifecycle policies, and a budget alert.</li>
+</ul>
+
+<h3>Demo:</h3>
+<p align="center">
+  <img src="images/MindMap/app-01.png" width="49%" alt="App screenshot 1">
+  <img src="images/MindMap/app-02.png" width="49%" alt="App screenshot 2">
+</p>
+<p align="center">
+  <img src="images/MindMap/01-diagram-app-flow.png" width="49%" alt="Application flow diagram">
+  <img src="images/MindMap/05-devops-k8s.png" width="49%" alt="Kubernetes / DevOps architecture diagram">
+</p>
+<p align="center">
+  <img src="images/MindMap/argocd.png" width="49%" alt="ArgoCD App-of-Apps">
+  <img src="images/MindMap/grafana-llms.png" width="49%" alt="Grafana LLM dashboards">
+</p>
+
+---
+
 <h1>Android Projects</h1>
 
 <h2>🚗🚦🛑 | Driving Theory</h2>
